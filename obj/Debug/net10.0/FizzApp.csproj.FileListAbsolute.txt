@@ -1,0 +1,14 @@
+/Users/mac/Desktop/FizzApp/bin/Debug/net10.0/FizzApp
+/Users/mac/Desktop/FizzApp/bin/Debug/net10.0/FizzApp.deps.json
+/Users/mac/Desktop/FizzApp/bin/Debug/net10.0/FizzApp.runtimeconfig.json
+/Users/mac/Desktop/FizzApp/bin/Debug/net10.0/FizzApp.dll
+/Users/mac/Desktop/FizzApp/bin/Debug/net10.0/FizzApp.pdb
+/Users/mac/Desktop/FizzApp/obj/Debug/net10.0/FizzApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/FizzApp/obj/Debug/net10.0/FizzApp.AssemblyInfoInputs.cache
+/Users/mac/Desktop/FizzApp/obj/Debug/net10.0/FizzApp.AssemblyInfo.cs
+/Users/mac/Desktop/FizzApp/obj/Debug/net10.0/FizzApp.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/FizzApp/obj/Debug/net10.0/FizzApp.dll
+/Users/mac/Desktop/FizzApp/obj/Debug/net10.0/refint/FizzApp.dll
+/Users/mac/Desktop/FizzApp/obj/Debug/net10.0/FizzApp.pdb
+/Users/mac/Desktop/FizzApp/obj/Debug/net10.0/FizzApp.genruntimeconfig.cache
+/Users/mac/Desktop/FizzApp/obj/Debug/net10.0/ref/FizzApp.dll
